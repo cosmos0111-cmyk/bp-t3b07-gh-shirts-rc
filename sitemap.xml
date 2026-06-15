@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/about.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/posts/field_note-002-1k6om0l.html</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/posts/interview-001-1yx2chb.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49,8 +55,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/posts/t3link-002-1yx2chb.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://cosmos0111-cmyk.github.io/bp-t3b07-gh-shirts-rc/feed.xml</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
